@@ -330,7 +330,6 @@ ol {
   clip-path: inset(50%);
   white-space: nowrap;
 }
-
 /*КАСТОМНЫЙ СКРОЛЛБАР*/
 .custom-scrollbar::-webkit-scrollbar {
   width: 4px;
@@ -339,6 +338,7 @@ ol {
 .custom-scrollbar::-webkit-scrollbar-track {
   background: rgb(217 217 217 / 10%);
 }
+
 
 .custom-scrollbar::-webkit-scrollbar-thumb {
   background-color: #D9D9D9;
